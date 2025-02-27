@@ -54,7 +54,7 @@ export const PROJECTS = [
 export const ABOUT_CONTENT = {
     paragraphs: [
         "Sou um desenvolvedor front-end apaixonado por tecnologia e inovação, com vasto estudo dedicado e experiência prática na criação de aplicações web modernas e responsivas. Meu foco é construir interfaces funcionais e visualmente atraentes que proporcionam excelentes experiências aos usuários.",
-        "Sou especializado em Angular, React.js, HTML,CSS,JavaScript e TypeScript, utilizando essas tecnologias para desenvolver um código limpo, sustentável e escalável. Meu compromisso com o aprendizado contínuo e a atualização constante sobre as tendências do desenvolvimento web garantem que estou bem preparado para contribuir de forma eficaz em qualquer projeto.",
+        "Sou especializado em Angular, React.js, HTML, CSS, avaScript e TypeScript, utilizando essas tecnologias para desenvolver um código limpo, sustentável e escalável. Meu compromisso com o aprendizado contínuo e a atualização constante sobre as tendências do desenvolvimento web garantem que estou bem preparado para contribuir de forma eficaz em qualquer projeto.",
     ],
 };
 
