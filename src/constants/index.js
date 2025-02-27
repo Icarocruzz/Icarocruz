@@ -85,7 +85,7 @@ export const CONTACT_CONTENT = {
     socialLinks: [
         {
             platform: "WhatsApp",
-            url: "https://w.app/Icarocruz",
+            url: "https://wa.me/5511970730874",
             ariaLabel: "Entre em contato comigo pelo WhatsApp",
             icon: "RiWhatsappLine",
         },
